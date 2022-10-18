@@ -14,18 +14,18 @@
 }
 
 body, html {
-    background: #00747C url(../pexels-vinícius-vieira-ft-2560337.jpg) bottom center;
+    background: #00747C url(../pexels-murilo-fonseca-6321080.jpg) center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 header h1 {
-    background-color: #00BBC9;
+    background-color: #00c968;
     padding: 20px;
 }
 
 menu {
-    background-color: #00BBC9;
+    background-color: #00c968;
     display: block;
     text-decoration: none;
 }
